@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+# Weather-app-typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1) This is a React weather application using Typescript and client-side routing which shows the current temperature, max temperature, min temperature and feels like etc. of a specific location.
+2) User can search for the city to get the temperature of a respective city. 
+3) User can also see the 7 days forecast of a particular city.
+4) User can add and remove different cities to favourite list and can see the favourite items in the favourite page.
 
-## Available Scripts
 
-In the project directory, you can run:
+## How to use this application
+1) If you want to use this application in your local system make a copy of the repository in your local system.
+2) Open the file in your code editor.
+3) In the terminal type 'npm install' to install all the necessary packages.
+4) Then you can use command 'npm start' to start this application on [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   
+   The page will reload if you make edits.\
+   You will also see any lint errors in the console.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
