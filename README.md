@@ -1,4 +1,6 @@
-# Weather-app-typescript
+# Weather-app-typescript - https://weatheroid27.netlify.app/
+
+
 
 1) This is a React weather application using Typescript and client-side routing which shows the current temperature, max temperature, min temperature and feels like etc. of a specific location.
 2) User can search for the city to get the temperature of a respective city. 
